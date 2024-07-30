@@ -4,10 +4,10 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     overflow: hidden;
     width: 300px;
-    max-height: 515px; /* Adjust the max-height to fit content */
+    max-height: 515px; 
     display: flex;
     flex-direction: column;
-    margin: 20px; /* Margin to separate from other content */
+    margin: 20px; 
 }
 
 .filter.car .product-image img {
