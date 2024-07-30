@@ -1,4 +1,4 @@
-function filter(type) {
+function filter(type){
     let con = document.querySelectorAll('.filter');
     for (let i = 0; i < con.length; i++) {
         if (con[i].classList.contains(type)) {
@@ -8,8 +8,7 @@ function filter(type) {
         }
     }
 }
-
-function button() {
+function button(){
     let buton = document.querySelectorAll('.buton');
     let con = document.querySelectorAll('.filter');
 
