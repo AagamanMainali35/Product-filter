@@ -1,48 +1,55 @@
-Product Filter App 🛒
+<h1 align="left">Product Filter App 🛒</h1>
 
-Welcome to the Product Filter App! This application allows users to filter and sort products based on various criteria.
+###
 
-Built with HTML, CSS, and JavaScript, it provides a user-friendly interface for managing and displaying product information.
+<p align="left">Welcome to the Product Filter App! This application allows users to filter and sort products based on various criteria.<br><br>Built with HTML, CSS, and JavaScript, it provides a user-friendly interface for managing and displaying product information.</p>
 
-Features ✨
+###
 
-Product Filtering 🔍: Filter products by categories, price ranges, and other attributes.
+<h2 align="left">Features ✨</h2>
 
-Sorting Options 🔄: Sort products based on price, popularity, and ratings.
+###
 
-Responsive Design 📱: Enjoy a seamless experience on all devices with a responsive layout.
+<p align="left">Product Filtering 🔍: Filter products by categories, price ranges, and other attributes.<br><br>Sorting Options 🔄: Sort products based on price, popularity, and ratings.<br><br>Responsive Design 📱: Enjoy a seamless experience on all devices with a responsive layout.</p>
 
-Technologies Used 💻
+###
 
-HTML 🏗️: Structure of the product filter app.
+<h2 align="left">Languages Used :</h2>
 
-CSS 🎨: Styling and layout to enhance visual appeal.
+###
 
-JavaScript ⚙️: Adding dynamic functionality for filtering and sorting products.
+<p align="left">HTML 🏗️: Structure of the product filter app.<br><br>CSS 🎨: Styling and layout to enhance visual appeal.<br><br>JavaScript : Adding dynamic functionality for filtering and sorting products.</p>
 
-Installation 🔧
+###
 
-To get started with the Product Filter App on your local machine, follow these steps:
+<h2 align="left">Installation 🔧</h2>
 
+###
 
-Clone the Repository 🚀:
+<p align="left">To get started with the Product Filter App on your local machine, follow these steps:</p>
 
-git clone https://github.com/Ancient100000/product-filter.git
+###
 
+<h5 align="left">Clone the Repository 🚀</h5>
 
-Contact 📫
-If you have any questions or feedback, please contact me:
+###
 
-Email: Aagamanmainali35@gmail.com
+<p align="left">git clone : https://github.com/Ancient100000/product-filter.git</p>
 
-GitHub: Ancient100000
+###
 
+<h3 align="left">Contact 📫</h3>
 
+###
 
-**Preview of Project 📸**
-[
+<p align="left">If you have any questions or feedback, please contact me:<br><br>Email: Aagamanmainali35@gmail.com<br><br>GitHub: Ancient100000</p>
+
+###
+
+<h3 align="left">Project preview 📸 :</h3>
+
+###
 
 https://github.com/user-attachments/assets/16cc53d6-1c5a-49f9-aec7-7b3b89a661bf
 
-](url)
 
